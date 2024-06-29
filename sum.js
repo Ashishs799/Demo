@@ -4,5 +4,5 @@ const b = 8;
 const Sum = () => {
   return a + b;
 };
-const output = Sum();
-console.log(output);
+const final = Sum();
+console.log(final);
